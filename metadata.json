@@ -1,0 +1,8 @@
+{
+  "name": "Age Calculator",
+  "description": "Calculate exact age in years, months, and days with birthday countdowns and custom Material 3 UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
